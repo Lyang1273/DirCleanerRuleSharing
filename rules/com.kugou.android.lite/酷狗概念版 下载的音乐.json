@@ -1,0 +1,10 @@
+{
+  "Description": "删除从酷狗概念版下载的所有音乐（仅/storage/emulated/0/kgmusic/download/）",
+  "App": true,
+  "Name": "酷狗概念版 下载的音乐",
+  "Notice": 2,
+  "PackName": "com.kugou.android.lite",
+  "Paths": [
+    "/storage/emulated/0/kgmusic/download"
+  ]
+}

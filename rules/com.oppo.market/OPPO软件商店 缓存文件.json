@@ -1,0 +1,10 @@
+{
+  "Description": "包含首页应用图标等缓存文件",
+  "App": true,
+  "Name": "OPPO软件商店 缓存文件",
+  "Notice": 0,
+  "PackName": "com.oppo.market",
+  "Paths": [
+    "/sdcard/Android/data/com.oppo.market/files/cache/"
+  ]
+}

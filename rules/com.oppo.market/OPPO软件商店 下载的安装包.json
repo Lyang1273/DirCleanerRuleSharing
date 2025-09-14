@@ -1,0 +1,10 @@
+{
+  "Description": "如果有没下载完成的任务可能需要重新下载",
+  "App": true,
+  "Name": "OPPO软件商店 下载的安装包",
+  "Notice": 1,
+  "PackName": "com.oppo.market",
+  "Paths": [
+    "/sdcard/Android/data/com.oppo.market/files/pkg/"
+  ]
+}

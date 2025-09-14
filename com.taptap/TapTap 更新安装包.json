@@ -1,0 +1,10 @@
+{
+  "Description": "TapTap 的更新安装包",
+  "App": true,
+  "Name": "TapTap 更新安装包",
+  "Notice": 1,
+  "PackName": "com.taptap",
+  "Paths": [
+    "/storage/emulated/0/taptapupdate/"
+  ]
+}
